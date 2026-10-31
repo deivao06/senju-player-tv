@@ -19,9 +19,13 @@ o Downloader e permita instalações por esse aplicativo quando solicitado.
 
 ## LG / Samsung
 
-Em desenvolvimento para modelos de 2022 em diante. Sem instaladores validados
-nesta primeira publicação. APK não é instalável em webOS/Tizen; instruções e
-pacotes próprios serão publicados quando disponíveis.
+Prévia LG IPK disponível, ainda sem validação de instalação/reprodução em TV.
+Guia: https://deivao06.github.io/senju-player-tv/lg.html
+
+Samsung: WGT técnico sem assinatura disponível na prévia Smart TV. Não é
+diretamente instalável; requer certificados e ferramentas Samsung.
+
+Alvo modelos 2022+. APK não é instalável em webOS/Tizen.
 
 ## Manutenção da página
 
